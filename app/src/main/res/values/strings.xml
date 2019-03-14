@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Planej</string>
+
+    <!--Sliders Introducao-->
+    <string name="slider_um_titulo">Organize your finances from wherever you are</string>
+    <string name="slider_um_descricao">Have control over your expenses</string>
+
+    <string name="slider_dois_titulo">Know where your money is going</string>
+    <string name="slider_dois_descricao">Separate every cent into categories</string>
+
+    <string name="slider_tres_titulo">Never forget paying a bill again</string>
+    <string name="slider_tres_descricao">Receive alerts when you want</string>
+
+    <string name="slider_quatro_titulo">Everything organized, on your computer or smartphone</string>
+    <string name="slider_quatro_descricao">Manage your money on different platforms</string>
+
+    <string name="slider_cinco_titulo">Create your free account now!</string>
+    <string name="slider_cinco_descricao">Join over 500,000 people and start now!</string>
+    <string name="slider_cinco_cadastre_se">Sign Me Up!</string>
+    <string name="slider_cinco_tenho_conta">I already have an account</string>
+
+
+    <!--Cadastro Activity-->
+    <string name="cadastro_titulo">Create a free account</string>
+    <string name="cadastro_hint_nome">Name</string>
+    <string name="cadastro_hint_email">E-mail</string>
+    <string name="cadastro_hint_senha">Password</string>
+    <string name="cadastro_button_submit">Submit</string>
+    <string name="cadastro_link_termos">Terms of Use</string>
+
+    <!--Login Activity-->
+    <string name="login_titulo">Access your account</string>
+    <string name="login_hint_email">E-mail</string>
+    <string name="login_hint_senha">Password</string>
+    <string name="login_button_submit">Sign In</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+
+    <!--Receitas Activity / Despesas Activity-->
+    <string name="hint_amount">$ 0.00</string>
+    <string name="hint_date">01/01/2019</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_description">Description</string>
+
+    <!--Content Principal Layout-->
+    <string name="textview_loading">Loading...</string>
+    <string name="textview_saldo">$ 0.00</string>
+    <string name="textview_saldo_geral">Total Balance</string>
+
+    <!--menu_principal_xml-->
+    <string name="menu_sair">Sign Out</string>
+</resources>
